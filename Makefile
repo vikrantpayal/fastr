@@ -1,6 +1,9 @@
 install:
-	# install
+	# install commands
 
+format:
+	#format code
+	
 lint:
 	# lint
 
