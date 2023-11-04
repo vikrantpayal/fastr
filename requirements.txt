@@ -1,0 +1,22 @@
+# gtd
+
+List of things I want to be able to do.
+1. See all tasks in discrete columns - todo now, todo online-personal, todo office, todo home, todo weekend, @people 
+2. View all projects in alphabetical order
+3. View all projects in order of last review
+4. View projects with sub-tasks
+5. Add something for review later
+6. Add a task to a list
+7. Add tasks to a project and simultaneously add what list they belong to
+8. Update a project
+9. Update a list 
+10. Delete multiple items in one command
+11. Get reminders for today or about upcoming events 
+12. Attach deadlines to projects and tasks
+13. Update deadlines 
+14. Show project % completion 
+15. Get alerts if there is a task that 
+has not been touched for very long or 
+a project for which the task did not progress.
+
+
